@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AyeThiriMon/currency-exchange-site/static/css/main.a182c03d.css",
+    "main.js": "/AyeThiriMon/currency-exchange-site/static/js/main.b93aeb24.js",
+    "static/js/787.32d25ab6.chunk.js": "/AyeThiriMon/currency-exchange-site/static/js/787.32d25ab6.chunk.js",
+    "index.html": "/AyeThiriMon/currency-exchange-site/index.html",
+    "main.a182c03d.css.map": "/AyeThiriMon/currency-exchange-site/static/css/main.a182c03d.css.map",
+    "main.b93aeb24.js.map": "/AyeThiriMon/currency-exchange-site/static/js/main.b93aeb24.js.map",
+    "787.32d25ab6.chunk.js.map": "/AyeThiriMon/currency-exchange-site/static/js/787.32d25ab6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a182c03d.css",
+    "static/js/main.b93aeb24.js"
+  ]
+}
