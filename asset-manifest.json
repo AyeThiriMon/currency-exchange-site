@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AyeThiriMon/currency-exchange-site/static/css/main.a182c03d.css",
-    "main.js": "/AyeThiriMon/currency-exchange-site/static/js/main.b93aeb24.js",
-    "static/js/787.32d25ab6.chunk.js": "/AyeThiriMon/currency-exchange-site/static/js/787.32d25ab6.chunk.js",
-    "index.html": "/AyeThiriMon/currency-exchange-site/index.html",
-    "main.a182c03d.css.map": "/AyeThiriMon/currency-exchange-site/static/css/main.a182c03d.css.map",
-    "main.b93aeb24.js.map": "/AyeThiriMon/currency-exchange-site/static/js/main.b93aeb24.js.map",
-    "787.32d25ab6.chunk.js.map": "/AyeThiriMon/currency-exchange-site/static/js/787.32d25ab6.chunk.js.map"
+    "main.css": "/currency-exchange-site/static/css/main.a182c03d.css",
+    "main.js": "/currency-exchange-site/static/js/main.04ddfda6.js",
+    "static/js/787.32d25ab6.chunk.js": "/currency-exchange-site/static/js/787.32d25ab6.chunk.js",
+    "index.html": "/currency-exchange-site/index.html",
+    "main.a182c03d.css.map": "/currency-exchange-site/static/css/main.a182c03d.css.map",
+    "main.04ddfda6.js.map": "/currency-exchange-site/static/js/main.04ddfda6.js.map",
+    "787.32d25ab6.chunk.js.map": "/currency-exchange-site/static/js/787.32d25ab6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a182c03d.css",
-    "static/js/main.b93aeb24.js"
+    "static/js/main.04ddfda6.js"
   ]
 }
