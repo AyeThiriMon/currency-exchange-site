@@ -1,5 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Row, Table } from "react-bootstrap";
+import './Form.css';
 
 function AllCurrencyRateTable(props) {
   let { currenciesData } = props;
@@ -7,7 +8,7 @@ function AllCurrencyRateTable(props) {
     <Row className="">
       {currenciesData !== null && currenciesData !== undefined && (
         <Table responsive className="table-striped table-hover ">
-          <thead className="">
+          <thead className="sticky-top">
             <tr className="">
               <th className="bg-info text-secondary p-3 border-end">No</th>
               <th className="bg-info text-secondary p-3 border-end">

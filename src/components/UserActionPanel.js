@@ -1,4 +1,4 @@
-import { Row, Table } from "react-bootstrap";
+import { Row, Col, Form, InputGroup } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function UserActionPanel(props) {
